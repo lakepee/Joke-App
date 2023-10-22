@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 110 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+    <g transform="matrix(0.8300000000000022,0,0,0.8300000000000022,43.5199999999995,43.5199999999995)">
+<linearGradient id="a" x1="408.232" x2="103.769" y1="242.769" y2="547.232" gradientTransform="matrix(-1 0 0 1 512 0)" gradientUnits="userSpaceOnUse">
+    <stop stop-opacity="1" stop-color="#65aafc" offset="0"></stop>
+    <stop stop-opacity="1" stop-color="#ff2626" offset="1"></stop>
+</linearGradient>
+<linearGradient id="b" x1="477.732" x2="312.269" y1="312.269" y2="477.732" gradientTransform="matrix(-1 0 0 1 512 0)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#e1f8fe"></stop>
+    <stop offset="1" stop-color="#8cbcff"></stop>
+</linearGradient>
+<path fill="url(#a)" d="M395 512H117C52.4 512 0 459.6 0 395s52.4-117 117-117h278c64.6 0 117 52.4 117 117s-52.4 117-117 117z" opacity="1" data-original="url(#a)" class=""></path>
+<path fill="url(#b)" d="M117 512C52.4 512 0 459.6 0 395s52.4-117 117-117 117 52.4 117 117-52.4 117-117 117z" opacity="1" data-original="url(#b)" class=""></path>
+</g>
+</svg>

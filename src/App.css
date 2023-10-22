@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+*{
+    font-family: "Inter";
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(56, 72, 176);
+    
+    
+}
+
+.header-logo{
+    width: 64px;
+    height: 64px;
+}
+.header-home{
+    width: 40px;
+}
+
+.header-home:hover{
+    animation: roll 3s infinite;
+    cursor: pointer;
+    transform: scale(1.2);
+}
+.header button{
+    background-color: inherit;
+    border: none;
+    font-size: medium;
+
+}
+
+.jokes{
+    max-width: 70%;
+    padding: 20px 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+.toggle{
+    width: 64px;
+    height: 64px;
+    padding-left: 40px;
+}

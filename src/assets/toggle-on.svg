@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" x="0" y="0" viewBox="0 -120 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+    <g transform="matrix(0.8300000000000022,0,0,0.8300000000000022,43.5199999999995,43.5199999999995)">
+        <linearGradient id="c" x1="103.769" x2="408.232" y1="547.232" y2="242.769" gradientTransform="matrix(1 0 0 -1 0 512)" gradientUnits="userSpaceOnUse">
+            <stop stop-opacity="1" stop-color="#62e8a2" offset="0"></stop>
+            <stop stop-opacity="1" stop-color="#2acf71" offset="1"></stop>
+        </linearGradient>
+        <linearGradient id="d" x1="312.269" x2="477.732" y1="477.732" y2="312.269" gradientTransform="matrix(1 0 0 -1 0 512)" gradientUnits="userSpaceOnUse">
+            <stop stop-opacity="1" stop-color="#c4f7da" offset="0"></stop>
+            <stop stop-opacity="1" stop-color="#deffe2" offset="1"></stop>
+        </linearGradient>
+        <path fill="url(#c)" d="M117 0h278c64.6 0 117 52.4 117 117s-52.4 117-117 117H117C52.4 234 0 181.6 0 117S52.4 0 117 0z" opacity="1" data-original="url(#c)" class=""></path>
+        <path fill="url(#d)" d="M395 0c64.6 0 117 52.4 117 117s-52.4 117-117 117-117-52.4-117-117S330.4 0 395 0z" opacity="1" data-original="url(#d)" class=""></path>
+    </g>
+</svg>
